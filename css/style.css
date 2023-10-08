@@ -1,0 +1,6 @@
+@media (max-width: 767px) {
+  .user-list {
+    justify-content: center !important;
+    margin-top: 16px !important;
+  }
+}
